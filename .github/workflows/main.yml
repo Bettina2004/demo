@@ -14,4 +14,4 @@ jobs:
       - uses: docker/build-push-action@v6 
 with: 
 push: true 
-tags: beereddy2004/demo:latest 
+tags: bettina2004/demo:latest 
